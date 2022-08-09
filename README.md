@@ -29,6 +29,7 @@
 
  | نام کانال | توضیحات | آدرس وب سایت | 
  | --- | --- | --- | 
+ | [آقای ربات | MrRobot](https://www.youtube.com/channel/UCvAMWdwUsplcY_5bcIbBDOQ) | آقای ربات ویدیوهایی درمورد آموزش برنامه‌نویسی پایتون، مشاوره برنامه‌نویسی و تکنولوژی منتشر میکنه...
  | [Abbas Yazdanpanah](https://www.youtube.com/channel/UCriDa1A8msrOTmfIFNFOhzA) | در این کانال ویدئوهایی که توسط عباس یزدان پناه در حوزه برنامه نویسی که در سایت blog.abyz.ir پخش می‌شود به اشتراک گذاشته می‌شود. | --
 [AliKarbasi](https://www.youtube.com/alikarbasi) | آموزش برنامه نویسی اندروید و طراحی وب | [وب‌سایت](https://alikarbasi.ir)
 [Alireza Ayinmehr](https://www.youtube.com/channel/UCkuHzng-3im8CtounzRO-GQ) | دوره‌ی رایگان آموزش توسعه وب با فریم‌ورک فلسک به زبان فارسی | --
